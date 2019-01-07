@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543757378 source:c:\users\user pc\documents\kuliah\pelajaran\pemrograman\tugas pemrograman\tugas 1\project biling restoran\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
